@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there, I'm Hussain K M Tansir- [Orick][website] 👋
 
-<!--
-**tansir525/tansir525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a learner !!
 
-Here are some ideas to get you started:
+- 🔭 I’m noob Developer
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m willing to work with other Project
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play Games / Phography
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### YouTube Music Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://music.youtube.com/playlist?list=PLguJ4iXPKafgIz8ZUT7MFizdIx9Xq4vBX)
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<br />
+
+[website]: https://tansir525.github.io/Hussain-K-M-Tansir-Resume/
+[twitter]: https://twitter.com/orick2000
+[instagram]: https://www.instagram.com/tansir_orick/
+[linkedin]: https://www.linkedin.com/in/hussain-k-m-tansir-559343194/
