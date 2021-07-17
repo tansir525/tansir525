@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m willing to work with other Project
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Games / Phography
+- ⚡ Fun fact: I love to play Games and Photography
 
 ### YouTube Music Playing 🎧
 
