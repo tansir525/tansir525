@@ -7,6 +7,7 @@
 - 👯 I’m willing to work with other Project
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Games and Photography
+- 💻 https://tansir525.github.io/
 
 ### YouTube Music Playing 🎧
 
@@ -24,7 +25,7 @@
 ### Connect with me:
 <br />
 <br />
-https://tansir525.github.io/
+
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
