@@ -10,7 +10,7 @@
 
 ### YouTube Music Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" text-align:"center" width="350" />](https://music.youtube.com/playlist?list=PLguJ4iXPKafgIz8ZUT7MFizdIx9Xq4vBX)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://music.youtube.com/playlist?list=PLguJ4iXPKafgIz8ZUT7MFizdIx9Xq4vBX)
 
 
 🤵🏻💻🏋🏻‍♀️🎮 🎧📸♞
