@@ -2,7 +2,8 @@
 
 ## I'm a learner !!
 
-- 🔭 I’m noob Developer
+- 🔭 ![image](https://user-images.githubusercontent.com/44799410/126023746-5ee338f9-3e34-472f-8a03-7f770cdf3c37.png)
+ I’m noob Developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m willing to work with other Project
 - 🥅 2022 Goals: Contribute more to Open Source projects
