@@ -14,6 +14,26 @@
 
 <br />
 <br />
+
+![nubelson-fernandes--Xqckh_XVU4-unsplash](https://user-images.githubusercontent.com/44799410/126023907-b9966358-009c-41a2-bb9a-ef066b80ace7.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br />
+<br />
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
