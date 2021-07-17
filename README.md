@@ -12,8 +12,9 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://music.youtube.com/playlist?list=PLguJ4iXPKafgIz8ZUT7MFizdIx9Xq4vBX)
 
-<br />
+
 🤵🏻💻🏋🏻‍♀️🎮 🎧📸♞
+<br />
 <br />
 
 ![wallpaperflare com_wallpaper(1)](https://user-images.githubusercontent.com/44799410/126024174-7375cc2b-684d-473d-958f-d03121d90e8f.jpg)
