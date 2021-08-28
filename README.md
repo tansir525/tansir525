@@ -9,11 +9,6 @@
 - ⚡ Fun fact: I love to play Games and Photography
 - 💻 https://tansir525.github.io/
 
-### YouTube Music Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://music.youtube.com/playlist?list=PLguJ4iXPKafgIz8ZUT7MFizdIx9Xq4vBX)
-
-
 🤵🏻💻🏋🏻‍♀️🎮 🎧📸♞
 <br />
 <br />
