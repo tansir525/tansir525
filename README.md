@@ -30,7 +30,7 @@
 <br />
 <br />
 
-[website]: https://tansir525.github.io/Hussain-K-M-Tansir-Resume/
+[website]: https://hussain-k-m-tansir.netlify.app/
 [twitter]: https://twitter.com/orick2000
 [instagram]: https://www.instagram.com/tansir_orick/
 [linkedin]: https://www.linkedin.com/in/hussain-k-m-tansir-559343194/
