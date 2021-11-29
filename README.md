@@ -13,7 +13,7 @@
 <br />
 <br />
 
-![wallpaperflare com_wallpaper(1)](https://user-images.githubusercontent.com/44799410/126024174-7375cc2b-684d-473d-958f-d03121d90e8f.jpg)
+![wallpaperflare com_wallpaper(1)](https://i.ibb.co/J7hMPqw/Black-Technology-Linked-In-Banner.png)
 
 
 <br />
