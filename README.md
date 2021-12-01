@@ -7,7 +7,7 @@
 - 👯 I’m willing to work with other Project
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Games and Photography
-- 💻 https://tansir525.github.io/
+- 💻 https://orick.netlify.app/
 
 🤵🏻💻🏋🏻‍♀️🎮 🎧📸♞
 <br />
