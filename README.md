@@ -5,7 +5,7 @@
 
 I am a Front End developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React and Next.Js. I also have experience working with MongoDB, Node.js, and Website SEO. Take a look at my work or get in touch! 
 
-Skills: REACT / Next.js / JS / HTML / CSS / FIGMA
+## Skills: REACT / Next.js / JS / HTML / CSS / FIGMA
 
 ## I'm a learner !!
 
@@ -15,7 +15,7 @@ Skills: REACT / Next.js / JS / HTML / CSS / FIGMA
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Games and Photography
 - 💻 https://orick.netlify.app/
-
+<br/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tansir525)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hussain-k-m-tansir-559343194/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tansir_orick/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/orick2000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tansir.netlify.app/)  
 
