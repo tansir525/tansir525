@@ -44,5 +44,5 @@ I am a Front End developer with industry experience building websites and web ap
 
 
 
-[website]: https://hussain-k-m-tansir.netlify.app/
+[website]: https://tansirorick.netlify.app/
 
