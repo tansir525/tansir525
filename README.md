@@ -17,6 +17,7 @@ I am a Front End developer with industry experience building websites and web ap
 - 💻 https://orick.netlify.app/
 <br/>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1QuG1uJ33NaDxHWHikoGcU?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
